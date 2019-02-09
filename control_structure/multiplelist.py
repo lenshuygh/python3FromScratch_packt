@@ -1,0 +1,11 @@
+"""
+iterating over multiple lists
+"""
+
+l1 = [1, 2, 3]
+l2 = [6, 7, 8, 20, 36, 40]
+
+for a,b in zip(l1,l2):
+    print(a)
+    print(b)
+
