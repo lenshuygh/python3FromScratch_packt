@@ -13,3 +13,14 @@ s = a[2:8]
 print(s)
 s = a[0:len(a):4]
 print(s)
+print()
+
+a = "This is a string"
+print(a)
+print(a[:6])
+print(a[8:])
+print(a[:-2])
+print(a[-2:])
+print(a[::2])
+print(a[::-1])
+print(a[1])
